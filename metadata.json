@@ -1,0 +1,7 @@
+{
+  "name": "ExteriOR: AI Flooring Designer",
+  "description": "Instantly redesign entrance flooring and exterior surfaces using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
